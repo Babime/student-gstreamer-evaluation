@@ -1,0 +1,3 @@
+configuration,network_codec,width,height,fps,duration_s,avg_cpu_percent,rtp_packets,rtp_bytes,rtp_kbit_per_s,startup_ms,warnings,recording_bytes
+A-h264,h264,800,450,10,45,9.8,11545,11723201,2084.1,118,0,11588627
+B-jpeg,jpeg,800,450,10,45,6.6,14017,19313686,3433.5,97,0,11732422
